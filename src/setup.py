@@ -24,4 +24,4 @@ setup(console=['main_sim.py'],
                          }
                }
       )
-qweqwe
+qweqweasdas
